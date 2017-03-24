@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         print("Hello World")
     }
+    
+    let myName = "Sep"
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
